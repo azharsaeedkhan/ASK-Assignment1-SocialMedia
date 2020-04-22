@@ -1,5 +1,6 @@
 pageextension 90300 "ASK Social Media Card" extends "Customer Card"
 {
+    Caption = 'Social Media Card';
     layout
     {
         addafter(General)
